@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SACNAS @ SFSU](https://github.com/Arjun-Parujanwala/sacnas-sfsu)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Next.Js**
 
